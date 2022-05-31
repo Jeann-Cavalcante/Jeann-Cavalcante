@@ -1,5 +1,5 @@
 
-Olá seja bem vindo ao meu Github 👋
+Olá seja bem vindo ao meu Github 👋👋
 
 Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente com ênfase em
 HTML 5, CSS3, JavaScript, React e Node

@@ -6,7 +6,6 @@ Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente co
 HTML 5, CSS3, JavaScript, React e Node
 
 - 🔭 Atualmente trabalho na LDM
-- 📚 Estudando na Rocketseat
 - 🎓 Faculdade católica - Analise e desenvolvimento de sistema
 
 <div align="center">

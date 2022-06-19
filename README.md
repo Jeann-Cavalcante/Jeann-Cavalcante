@@ -3,7 +3,7 @@
 Olá seja bem vindo ao meu Github 👋👋
 
 Desenvolvedor fullstack:
-JavaScript, React e Node
+JavaScript, Typescript, React e Node
 
 - 🔭 Atualmente trabalhando na LDM
 - 🎓 Faculdade católica - Analise e desenvolvimento de sistema

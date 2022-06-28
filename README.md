@@ -2,7 +2,7 @@
 
 Olá seja bem vindo ao meu Github 👋👋
 
-Desenvolvedor fullstack:
+Desenvolvedor fullstack </br>
 JavaScript, Typescript, React e Node
 
 - 🔭 Atualmente trabalhando na LDM

@@ -5,7 +5,6 @@ Olá seja bem vindo ao meu Github 👋👋
 Desenvolvedor fullstack: </br>
 JavaScript, Typescript, React e Node
 
-- 🔭 Atualmente trabalhando na LDM
 - 🎓 Faculdade católica - Analise e desenvolvimento de sistema
 
 <div align="center">

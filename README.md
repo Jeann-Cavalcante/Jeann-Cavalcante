@@ -7,10 +7,18 @@ JavaScript, Typescript, React e Node
 
 - 🎓 Faculdade católica - Analise e desenvolvimento de sistema
 
+
+
+
 <div align="center">
   <a href="https://github.com/Jeann-Cavalcante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeann-Cavalcante&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeann-Cavalcante&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="200em"  style="display: flex" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeann-Cavalcante&theme=tokyonight" />
+    <div style="display: flex; flex-direction: row" >
+  <img height="180em"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeann-Cavalcante&theme=tokyonight" />
+  <img height="180em"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeann-Cavalcante&theme=tokyonight" />
+      </div>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeann-Cavalcante&theme=tokyonight" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeann-Cavalcante&theme=tokyonight" />
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
